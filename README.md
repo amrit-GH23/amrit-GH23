@@ -15,8 +15,9 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **Campus Exchange**
-- 🌱 I’m currently learning **ReactJs, Node.js, DSA, Three.js**
+- 🔭 I’m currently working on **Campus Exchange ( An website designed for College campus to ✅ Buy, sell, or exchange items like textbooks, gadgets, and essentials.
+**
+- 🌱 I’m currently learning **ReactJs, Node.js, DSA, Django**
 - 💬 Ask me about **C++, HTML, CSS, JavaScript**
 - 📫 How to reach me **amritkumar2005btw@gmail.com**
 - ⚡ Fun fact **I love exploring new technologies and solving problems.**
