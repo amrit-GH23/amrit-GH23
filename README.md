@@ -10,8 +10,8 @@
 </p>
 
 <p align="left"> 
-  <a href="https://twitter.com/amrit_GH23" target="blank">
-    <img src="https://img.shields.io/twitter/follow/amrit_GH23?logo=twitter&style=for-the-badge" alt="amrit_GH23" />
+  <a href="https://x.com/Amrit_btw_kumar" target="blank">
+    <img src="https://img.shields.io/twitter/follow/amrit_GH23?logo=twitter&style=for-the-badge" alt="Amrit kumar" />
   </a>
 </p>
 
@@ -41,4 +41,4 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=amrit-GH23&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=amrit-GH23&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amrit-GH23&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amrit-GH23&show_icons=true&locale=en&layout=compact" alt="amrit-GH23" /></p>
