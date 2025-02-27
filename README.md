@@ -11,7 +11,7 @@
 
 <p align="left"> 
   <a href="https://x.com/Amrit_btw_kumar" target="blank">
-    <img src="https://img.shields.io/twitter/follow/amrit_GH23?logo=twitter&style=for-the-badge" alt="Amrit kumar" />
+    <img src="https://img.shields.io/twitter/follow/Amrit_Kumar?logo=twitter&style=for-the-badge" alt="Amrit kumar" />
   </a>
 </p>
 
