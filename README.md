@@ -15,9 +15,9 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **DAY TECH** a blogging site to write and share blogs...
-- 🌱 I’m currently learning **ReactJs, Node.js, DSA, Django**
-- 💬 Ask me about **C++, HTML, CSS, JavaScript**
+- 🔭 I’m currently learning GenAI...
+- 🌱 I work on **ReactJs and Django**
+- 💬 Ask me about **Python and Data Structures**
 - 📫 How to reach me **amritkumar2005btw@gmail.com**
 - ⚡ Fun fact **I love exploring new technologies and solving problems.**
 
