@@ -42,7 +42,6 @@ Currently focused on **React, Django/FastAPI**, and **practical GenAI integratio
 
 ## 📫 Contact
 
-- **Email:** amritkumar2005btw@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/amritkumar2 
 - **X :** https://x.com/Amrit_btw_kumar  
 
